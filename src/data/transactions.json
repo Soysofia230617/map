@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "date": "15:30 01/01/24",
+    "type": "Начальные доходы",
+    "amount": 1565,
+    "status": "success",
+    "icon": "check"
+  },
+  {
+    "id": 2,
+    "date": "15:30 01/01/24",
+    "type": "Вывод средств",
+    "amount": -55958,
+    "status": "success",
+    "icon": "arrow-up"
+  },
+  {
+    "id": 3,
+    "date": "15:30 01/01/24",
+    "type": "Пополнение",
+    "amount": 154485,
+    "status": "success",
+    "icon": "plus"
+  },
+  {
+    "id": 4,
+    "date": "15:30 01/01/24",
+    "type": "Комиссия -1%",
+    "amount": -325,
+    "status": "success",
+    "icon": "percent"
+  },
+  {
+    "id": 5,
+    "date": "15:30 01/01/24",
+    "type": "Начальные доходы",
+    "amount": 1565,
+    "status": "success",
+    "icon": "check"
+  },
+  {
+    "id": 6,
+    "date": "15:30 01/01/24",
+    "type": "Операционная комиссия",
+    "amount": -325,
+    "status": "error",
+    "icon": "percent"
+  },
+  {
+    "id": 7,
+    "date": "14:25 02/01/24",
+    "type": "Дивиденды",
+    "amount": 8765,
+    "status": "success",
+    "icon": "check"
+  },
+  {
+    "id": 8,
+    "date": "12:10 02/01/24",
+    "type": "Вывод средств",
+    "amount": -15000,
+    "status": "success",
+    "icon": "arrow-up"
+  },
+  {
+    "id": 9,
+    "date": "11:45 03/01/24",
+    "type": "Пополнение",
+    "amount": 50000,
+    "status": "success",
+    "icon": "plus"
+  },
+  {
+    "id": 10,
+    "date": "10:30 03/01/24",
+    "type": "Комиссия",
+    "amount": -150,
+    "status": "error",
+    "icon": "percent"
+  }
+]

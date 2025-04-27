@@ -1,0 +1,14 @@
+[
+  { "month": "Янв", "value": 100000 },
+  { "month": "Фев", "value": 80000 },
+  { "month": "Мар", "value": 60000 },
+  { "month": "Апр", "value": 70000 },
+  { "month": "Май", "value": 50000 },
+  { "month": "Июн", "value": 30000 },
+  { "month": "Июл", "value": 40000 },
+  { "month": "Авг", "value": 20000 },
+  { "month": "Сен", "value": 30000 },
+  { "month": "Окт", "value": 10000 },
+  { "month": "Ноя", "value": 20000 },
+  { "month": "Дек", "value": 15000 }
+]

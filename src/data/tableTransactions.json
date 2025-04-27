@@ -1,0 +1,114 @@
+[
+  {
+    "id": "32467",
+    "date": "11:20 05.01.2019",
+    "comment": "Smart Плаучив",
+    "amount": 1500,
+    "status": "success"
+  },
+  {
+    "id": "32466",
+    "date": "21:18 02.01.2019",
+    "comment": "Smart Ишим",
+    "amount": 3850,
+    "status": "canceled"
+  },
+  {
+    "id": "32465",
+    "date": "00:31 12.12.2018",
+    "comment": "Вывод",
+    "amount": -16335,
+    "status": "withdrawal"
+  },
+  {
+    "id": "32467",
+    "date": "11:29 12.12.2018",
+    "comment": "Smart Плаучив",
+    "amount": 1000,
+    "status": "canceled"
+  },
+  {
+    "id": "32467",
+    "date": "11:29 12.12.2018",
+    "comment": "Smart Плаучив",
+    "amount": 1500,
+    "status": "success"
+  },
+  {
+    "id": "N32467",
+    "date": "11:29 12.12.2018",
+    "comment": "Комиссия",
+    "amount": -168,
+    "status": "withdrawal"
+  },
+  {
+    "id": "N32467",
+    "date": "11:29 12.12.2018",
+    "comment": "Smart Плаучив",
+    "amount": 1500,
+    "status": "success"
+  },
+  {
+    "id": "N32467",
+    "date": "11:29 12.12.2018",
+    "comment": "Smart Ишим",
+    "amount": 9780,
+    "status": "success"
+  },
+  {
+    "id": "N32467",
+    "date": "11:20 05.01.2019",
+    "comment": "Smart Плаучив",
+    "amount": 1500,
+    "status": "success"
+  },
+  {
+    "id": "N32466",
+    "date": "21:18 02.01.2019",
+    "comment": "Smart Ишим",
+    "amount": 3850,
+    "status": "canceled"
+  },
+  {
+    "id": "N32465",
+    "date": "00:31 12.12.2018",
+    "comment": "Вывод",
+    "amount": -16335,
+    "status": "withdrawal"
+  },
+  {
+    "id": "N32467",
+    "date": "11:29 12.12.2018",
+    "comment": "Smart Плаучив",
+    "amount": 1000,
+    "status": "canceled"
+  },
+  {
+    "id": "N32467",
+    "date": "11:29 12.12.2018",
+    "comment": "Smart Плаучив",
+    "amount": 1500,
+    "status": "success"
+  },
+  {
+    "id": "N32467",
+    "date": "11:29 12.12.2018",
+    "comment": "Комиссия",
+    "amount": -168,
+    "status": "withdrawal"
+  },
+  {
+    "id": "N32467",
+    "date": "11:29 12.12.2018",
+    "comment": "Smart Плаучив",
+    "amount": 1500,
+    "status": "success"
+  },
+  {
+    "id": "N32467",
+    "date": "11:29 12.12.2018",
+    "comment": "Smart Ишим",
+    "amount": 9780,
+    "status": "success"
+  }
+]
